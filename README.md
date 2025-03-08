@@ -53,7 +53,7 @@ graph TD
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/distr-comp.git
+git clone https://github.com/artvinee/distr-comp.git
 cd distr-comp
 
 # Сборка проекта
